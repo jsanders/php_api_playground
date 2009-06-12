@@ -1,0 +1,15 @@
+<?php
+
+// Root application directory
+$APPLICATION_DIR = '/path/to/application'; 
+
+// Application configuration
+$CONTROLLER_DIR = $APPLICATION_DIR . 'controllers/';
+$VIEW_DIR = $APPLICATION_DIR . 'views/';
+$DATABASE_DIR = $APPLICATION_DIR . 'db/';
+$MODEL_DIR = $DATABASE_DIR . 'models/';
+
+$TWITTER_USERNAME = 'twitter_username';
+$TWITTER_PASSWORD = 'twitter_password';
+
+?>
